@@ -1,0 +1,21 @@
+{
+	"params":
+	{
+		"local_server":"True",
+		"local_uri":"mysql://root:root@localhost/tarunsoni",
+		"prod_uri":"mysql://root:root@localhost/tarunsoni",
+		"fb_url":"https://www.facebook.com",
+		"tw_url":"https://twitter.com",
+		"gh_url":"https://github.com/TarunKumarSoni",
+		"blog_name":"TARUN's WEBPAGE",
+		"tag_line":"A blog done by TARUN",
+		"gmail-user":"@@@@@@",
+		"gmail-password":"______",
+		"about_text":"My name is TARUN KUMAR SONI. I am pursuing my Bachelor of Engineering in CHaitanya Bharathi Institute of Technology. At present I am in 3rd year. I got 8.82 as CGPA in first 4 semesters. When coming to coding skills I know Python, C, JAVA. In web development I know FLASK webframework of python, HTML, CSS, Javascript, XHTML and XML. Unless these I also have a good knowledge on Data Structures[DS], Data Base Management System[DBMS], Operating System[OS], Artificial Intelligence[AI] and Machine Learning[ML]. My main Interest is in Artificial Intelligence, Machine Learning and Python. I love to play CHESS and grab to new technologies as soon as possible.",
+		"no_of_posts":"2",
+		"login_image":"login.svg",
+		"admin_user":"tarun",
+		"admin_password":"soni",
+		"upload_location":"C:\\Users\\kumar\\Documents\\Flask\\static"
+	}
+}
